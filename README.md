@@ -1,6 +1,8 @@
 # stroustrup_std_lib_facilities
 additional library for book Programming: Principles and Practice using C++
 
+Source: https://www.stroustrup.com
+
 simple "Programming: Principles and Practice using C++ (second edition)" course header to
 be used for the first few weeks.
 It provides the most common standard headers (in the global namespace)
